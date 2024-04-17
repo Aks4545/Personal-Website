@@ -287,11 +287,6 @@ section {
   border-radius: 2rem;
 }
 
-.arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 2.5rem;
-}
 
 .details-container {
   padding: 1.5rem;
@@ -366,8 +361,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 18rem;
-  height: 25rem;
+  width: 12rem;
+  height: 15rem;
 }
 .ed-img {
   border-radius: 2rem;
